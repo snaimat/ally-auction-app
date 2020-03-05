@@ -1,0 +1,3 @@
+
+¬%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(…â©ùÿÿÿÿ
+ksquid:UselessImportCheck"@Remove this unused import 'com.ally.demo.api.model.AuctionItem'.(İ€Í¸8–•¹å‰.

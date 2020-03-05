@@ -1,0 +1,5 @@
+
+hsquid:S1854c"ERemove this useless assignment to local variable "postedAuctionItem".(â„Ä£ùÿÿÿÿ8ÆáÛà‰.
+isquid:UselessImportCheck"9Remove this unused import 'com.ally.demo.api.model.Item'.(ı­Ûæüÿÿÿÿ8éÎùß‰.
+psquid:UselessImportCheck"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8éÎùß‰.
+hsquid:S1854P"ERemove this useless assignment to local variable "postedAuctionItem".(â„Ä£ùÿÿÿÿ8éÎùß‰.

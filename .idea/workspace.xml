@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5899b5c8-99e8-46c2-9cba-3ec04b549851" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/DemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/config/DataSourceConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/config/SqlQueryConfigProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/controller/AuctionsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/exception/AuctionItemExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/exception/ItemIdNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/exception/MissingRequiredParameterException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/model/AuctionItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/model/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/repository/AuctionItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/repository/AuctionItemsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/repository/DBRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/repository/DBRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/service/Auctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ally/demo/api/service/AuctionsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/ally/demo/DemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/ally/demo/api/repository/AuctionItemMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/ally/demo/api/repository/AuctionItemsMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/ally/demo/api/repository/DBRepositoryImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/ally/demo/api/service/AuctionsServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/config/SqlQueryConfigProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/config/SqlQueryConfigProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/controller/AuctionsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/controller/AuctionsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/AuctionItemExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/AuctionItemExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/ItemIdNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/ItemIdNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/MissingRequiredParameterException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/MissingRequiredParameterException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/ReserveNotMetException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/exception/ReserveNotMetException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/model/AuctionItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/model/AuctionItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/model/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/model/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/AuctionItemMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/AuctionItemMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/AuctionItemsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/AuctionItemsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/DBRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/DBRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/DBRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/DBRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/ItemMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/repository/ItemMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/service/AuctionsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/ally/demo/api/service/AuctionsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/sql_queries.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/sql_queries.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="73a52468-d32f-4585-83a9-3a621a2c8f53" />
+  </component>
+  <component name="ProjectId" id="1Yh7gtEUPPzDwpDclrEWK3hg0YI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ally.demo.api.exception" />
+      <recent name="com.ally.demo.api.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ally.demo.DemoApplication" />
+      <module name="demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ally.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ally.demo.api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ally.demo.api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ally.demo.api.service.AuctionsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionsServiceTest.when_No_AuctionItemId_found_then_return_NotFoundException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ally.demo.api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ally.demo.api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ally.demo.api.service.AuctionsServiceTest" />
+      <option name="METHOD_NAME" value="when_No_AuctionItemId_found_then_return_NotFoundException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionsServiceTest.when_Post_Bid_ReserveNotMet_then_Return_Exception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ally.demo.api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ally.demo.api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ally.demo.api.service.AuctionsServiceTest" />
+      <option name="METHOD_NAME" value="when_Post_Bid_ReserveNotMet_then_Return_Exception" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionsServiceTest.when_request_all_auctionItems_with_no_auctions_then_returnNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ally.demo.api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ally.demo.api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ally.demo.api.service.AuctionsServiceTest" />
+      <option name="METHOD_NAME" value="when_request_all_auctionItems_with_no_auctions_then_returnNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ally.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="JUnit.AuctionsServiceTest.when_Post_Bid_ReserveNotMet_then_Return_Exception" />
+        <item itemvalue="JUnit.AuctionsServiceTest.when_No_AuctionItemId_found_then_return_NotFoundException" />
+        <item itemvalue="JUnit.AuctionsServiceTest.when_request_all_auctionItems_with_no_auctions_then_returnNotFound" />
+        <item itemvalue="JUnit.AuctionsServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5899b5c8-99e8-46c2-9cba-3ec04b549851" name="Default Changelist" comment="" />
+      <created>1583162116086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583162116086</updated>
+      <workItem from="1583162119484" duration="18364000" />
+      <workItem from="1583249198477" duration="8307000" />
+      <workItem from="1583276109696" duration="158000" />
+      <workItem from="1583276369832" duration="153000" />
+      <workItem from="1583276558093" duration="302000" />
+      <workItem from="1583277841955" duration="408000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixes">
+      <created>1583329732830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583329732830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final fixes.">
+      <created>1583382806759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583382806759</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27692000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixes" />
+    <MESSAGE value="final fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="final fixes." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1583376385202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583376385202" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583380755571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583380755571" />
+    <state x="626" y="118" key="CommitChangelistDialog2" timestamp="1583382804314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583382804314" />
+    <state x="740" y="240" key="FileChooserDialogImpl" timestamp="1583383122760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="240" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583383122760" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1583383515834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583383515834" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1583383515834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583383515834" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1583383515834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583383515834" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1583383515834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583383515834" />
+    <state width="1877" height="376" key="GridCell.Tab.1.bottom" timestamp="1583382842314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583382842314" />
+    <state width="1877" height="376" key="GridCell.Tab.1.center" timestamp="1583382842314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583382842314" />
+    <state width="1877" height="376" key="GridCell.Tab.1.left" timestamp="1583382842314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583382842314" />
+    <state width="1877" height="376" key="GridCell.Tab.1.right" timestamp="1583382842314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583382842314" />
+    <state x="672" y="237" key="MultipleFileMergeDialog" timestamp="1583374701998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="237" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583374701998" />
+    <state x="627" y="225" key="NewModule_or_Project.wizard" timestamp="1583383161413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="225" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583383161413" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1583382829846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583382829846" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1583382810389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583382810389" />
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583383096007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583383096007" />
+    <state x="664" y="421" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583375065962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="421" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1583375065962" />
+    <state x="704" y="323" key="git4idea.merge.GitPullDialog" timestamp="1583374828832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="323" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583374828832" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583375325636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583375325636" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ally/demo/api/repository/DBRepositoryImpl.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ally/demo/api/repository/DBRepositoryImpl.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ally/demo/api/repository/DBRepositoryImpl.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

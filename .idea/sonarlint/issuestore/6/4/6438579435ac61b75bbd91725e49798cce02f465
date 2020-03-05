@@ -1,0 +1,19 @@
+
+Ysquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Óú±å‰.
+†squid:S1488)"cImmediately return this expression instead of assigning it to the temporary variable "auctionItem".(ÿ™‘¾ùÿÿÿÿ8„ü‡á‰.
+Esquid:S2153<""Remove the unboxing from "Double".(İÏÀûÿÿÿÿÿ8İá£é‰.
+\squid:S1854h">Remove this useless assignment to local variable "currentBid".(ßÎò½8£»üŠ.
+{squid:UselessImportCheck"PRemove this unused import 'org.springframework.jdbc.core.simple.SimpleJdbcCall'.(Æ¢ƒã8 øùâ‰.
+Tsquid:S3655:"7Call "Optional#isPresent()" before accessing the value.(à˜©X8Ô±Ìè‰.
+Zsquid:S3655`"7Call "Optional#isPresent()" before accessing the value.(İÏÀûÿÿÿÿÿ8Ñ†Ğê‰.
+Zsquid:S3655d"7Call "Optional#isPresent()" before accessing the value.(õüœòúÿÿÿÿ8°ÀçŒŠ.
+@squid:S2153;""Remove the unboxing from "Double".(„³˜§8š«Ÿé‰.
+‡squid:S14880"dImmediately return this expression instead of assigning it to the temporary variable "auctionItems".(ëÆæ ùÿÿÿÿ8„ü‡á‰.
+|squid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş”‡ıÿÿÿÿ8áïÇê‰.
+Usquid:S3655;"7Call "Optional#isPresent()" before accessing the value.(„³˜§8š«Ÿé‰.
+Msquid:S1481h"/Remove this unused "currentBid" local variable.(ßÎò½8£»üŠ.
+Zsquid:S3655_"7Call "Optional#isPresent()" before accessing the value.(´µÚôüÿÿÿÿ8ı…Öê‰.
+?squid:S2153:""Remove the unboxing from "Double".(à˜©X8Ô±Ìè‰.
+Esquid:S2153`""Remove the unboxing from "Double".(İÏÀûÿÿÿÿÿ8Ñ†Ğê‰.
+Esquid:S2153d""Remove the unboxing from "Double".(õüœòúÿÿÿÿ8°ÀçŒŠ.
+Zsquid:S3655<"7Call "Optional#isPresent()" before accessing the value.(İÏÀûÿÿÿÿÿ8İá£é‰.
